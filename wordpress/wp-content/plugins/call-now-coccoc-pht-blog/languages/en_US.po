@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:178
+msgid "Custom Call Now Coccoc PHT Blog - Setup"
+msgstr ""
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:179
+msgid "Enter your phone number and custom color"
+msgstr ""
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:191
+msgid "Padding Right(px):"
+msgstr ""
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:195
+msgid "Padding Top(%):"
+msgstr ""
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:183
+msgid "Phone Number"
+msgstr ""
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:190
+msgid "Position:"
+msgstr ""
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:202
+msgid "Ring Color"
+msgstr ""
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:215
+msgid "Save"
+msgstr ""
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:208
+msgid "Tracking Code"
+msgstr ""

@@ -1,0 +1,2 @@
+2019-07-13T04:30:47+00:00 ERROR admin@validatePostApiKey :: 401 :: API Key Invalid :: Your API key may be invalid, or you've attempted to access the wrong datacenter. on 1630 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2019-07-13T04:30:53+00:00 ERROR admin@validatePostApiKey :: 401 :: API Key Invalid :: Your API key may be invalid, or you've attempted to access the wrong datacenter. on 1630 in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php

@@ -1,0 +1,40 @@
+2019-07-11T19:59:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-07-11T19:59:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-07-11T20:06:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-07-11T20:07:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-07-11T20:18:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-07-11T20:31:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\facebook-for-woocommerce\facebook-commerce-pixel-event.php on line 11
+
+2019-07-11T20:31:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2007
+
+2019-07-11T20:55:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2007
+
+2019-07-11T20:55:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wp-theme.php on line 1276
+
+2019-07-11T21:05:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-07-11T21:19:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2007
+
+2019-07-11T21:20:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\widgets\class-wp-widget-media-audio.php on line 17
+
+2019-07-11T21:20:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\facebook-for-woocommerce\facebook-commerce-pixel-event.php on line 11
+
+2019-07-11T21:20:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-helper.php on line 2
+
+2019-07-11T21:20:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\src\Admin\Challenge.php on line 14
+
+2019-07-11T21:20:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\src\Integrations\Gutenberg\FormSelector.php on line 16
+
+2019-07-11T21:20:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\includes\providers\class-constant-contact.php on line 12
+
+2019-07-11T21:21:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 16
+
+2019-07-11T21:21:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\app.php on line 7
+
+2019-07-11T21:22:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\widgets\icon-box.php on line 4
+

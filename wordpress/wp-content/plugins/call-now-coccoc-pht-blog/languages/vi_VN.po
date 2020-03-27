@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi\n"
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:178
+msgid "Custom Call Now Coccoc PHT Blog - Setup"
+msgstr "Tùy chỉnh cho Call Now Coccoc PHT Blog - Cài đặt"
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:179
+msgid "Enter your phone number and custom color"
+msgstr "Nhập số điện thoại của bạn và tùy chỉnh màu"
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:191
+msgid "Padding Right(px):"
+msgstr "Khoảng cách phải (px):"
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:195
+msgid "Padding Top(%):"
+msgstr "Khoảng cách trên (%):"
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:183
+msgid "Phone Number"
+msgstr "Số điện thoại"
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:190
+msgid "Position:"
+msgstr "Vị trí"
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:202
+msgid "Ring Color"
+msgstr "Màu khi rung"
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:215
+msgid "Save"
+msgstr "Lưu lại"
+
+#. Text in echo
+#: call-now_pht/admin/class-easy-callnow-admin.php:208
+msgid "Tracking Code"
+msgstr "Mã theo dõi"
